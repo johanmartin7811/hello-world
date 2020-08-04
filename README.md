@@ -1,4 +1,3 @@
 # hello-world
-Hello world program
-Hejsan tjo 
+#Vi testar nu wa  gryymmmtt
 
